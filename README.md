@@ -4,7 +4,7 @@
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
 # 💫 About Me:
-🔭 I’m currently working on Exploratory Data Analysis<br><br>🌱 I’m currently learning C++,Python,Machine learning<br><br>👯 I’m looking to collaborate on Data Analytics projects<br><br>🤝 I’m looking for help with Github readme stats<br><br>💬 Ask me about Sql,Data Visualisation,Python<br><br>📫 How to reach me manishasenapati27@gmail.com<br><br>⚡ Fun fact "I've tried over 50 flavors of ice cream from around the world. My quest for the most unique flavors is never-ending!"
+🔭 I’m currently working on Exploratory Data Analysis<br><br>🌱 I’m currently learning C++,Python,Machine learning<br><br>👯 I’m looking to collaborate on Data Analytics projects<br><br>🤝 I’m looking for help with Github readme stats<br><br>💬 Ask me about Sql,Data Visualisation,Excel<br><br>📫 How to reach me manishasenapati27@gmail.com<br><br>⚡ Fun fact "I've tried over 50 flavors of ice cream from around the world. My quest for the most unique flavors is never-ending!"
 
 
 ## 🌐 Socials:
