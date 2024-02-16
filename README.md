@@ -5,8 +5,7 @@
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
 # 💫 About Me:
-🔭 I’m currently working on Exploratory Data Analysis<br><br>🌱 I’m currently learning C++,Python,Machine learning<br><br>👯 I’m looking to collaborate on Data Analytics projects<br><br>🤝 I’m looking for help with Github readme stats<br><br>💬 Ask me about Sql,Data Visualisation,Excel<br><br>📫 How to reach me manishasenapati27@gmail.com<br><br>⚡ Fun fact "I've tried over 50 flavors of ice cream from around the world. My quest for the most unique flavors is never-ending!"
-
+🔭Hey there, I'm Manisha, a passionate data enthusiast with expertise in ETL, Data Analysis, and Visualization. Proficient in Advanced Excel and SQL and PowerBi From cleaning up messy spreadsheets in Excel to digging into databases with SQL, I've got the data side covered. Lately, I've been on a Python learning journey, adding some coding magic to my toolkit. I enjoy creating cool stuff, like dynamic sales dashboards that tell stories behind the numbers. I am seeking new challenges & opportunities to develop and implement my diverse skills to extract impactful results for the organizations.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_comical_e.r.r.o.r_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-senapati-596553183/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/manishasenapati1504ms) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Manishatweetss) 
