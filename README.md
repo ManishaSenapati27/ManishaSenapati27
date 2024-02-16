@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋,
-[![MasterHead](C:\Users\Lenovo\Pictures\Screenshot 2024-02-08 061442.png)
+
+
 <h1 align="center">Hi 👋, I'm Manisha Senapati</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
